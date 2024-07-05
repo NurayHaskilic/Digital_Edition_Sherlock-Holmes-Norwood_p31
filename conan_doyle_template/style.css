@@ -6,12 +6,18 @@ body {
   text-align: center;
 }
 
-img {
-    max-width: 100%;
-}
+
+.image1 { 
+    width: 120px;
+    height: 150px;
+  }
+.image2 {
+    width: 500px;
+    height:600px;}
 
 p {
-    text-indent: 10px;
+    text-indent: 0px;
+    font-size: 14px;
 }
 
 .row {
@@ -30,5 +36,6 @@ p {
 
 .del {
   text-decoration: line-through;
+  color: red;
 }
 
